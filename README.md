@@ -1,10 +1,10 @@
-# Base app with Parcel
+# Masonry layout example
 
-Create an app about HTML/CSS/JS with Parcel (Web application bundle)
+This build from HTML/CSS + Parcel (web application bundler)
 
 Author: Cu Nguyen &lt;[cunguyen.dev@gmail.com](cnguyen.dev@gmail.com)&gt;
 
-Deploy to Netlify: [https://parcel-base-app.netlify.app/](https://parcel-base-app.netlify.app/)
+Deploy to Netlify: [https://masonry-layout-example.netlify.app/](https://masonry-layout-example.netlify.app/)
 
 ## Requirements
 
